@@ -53,17 +53,18 @@ A full-stack platform where users preserve, share, and learn from real life expe
 
 ---
 
-### 💼 [HireLoop](https://hireloop.vercel.app) — Job Hunting Portal
-A job portal platform with recruiter and seeker dashboards, company profiles, job posting, applications with subscription-based limits, and Stripe payment integration.
-> Next.js 15 · Express.js · MongoDB · BetterAuth · Stripe
-
----
-
 ### 🚗 [Rentify](https://rentify-blond-chi.vercel.app) — Car Rental Platform
 A full-stack car rental platform with authentication, booking system, search & filter, and JWT-secured APIs.
 > Next.js · Node.js · MongoDB · BetterAuth
 
 ---
+
+### 💼 [Book Flow](https://book-flow-beta.vercel.app) — Online book borrowing platform
+BookFlow allows users to explore a vast collection of books, filter by categories, and borrow titles digitally. The platform prioritizes security and performance using BetterAuth for authentication and MongoDB for user data management.
+> Next.js 15 · Express.js · MongoDB · BetterAuth · Framer Motion
+
+---
+
 
 ## 📬 Contact
 
