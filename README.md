@@ -1,12 +1,12 @@
-# Hi, I'm Pritam 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=200&section=header&text=Hi,%20I'm%20Pritam%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20|%20Dhaka,%20Bangladesh&descAlignY=60&descSize=20)
 
 I'm a passionate full-stack web developer focused on building clean, user-friendly web applications. Currently deepening my skills in modern JavaScript frameworks and backend development.
 
 **🌐 Portfolio:** [pritam-b-dev](https://portfolio-pritam-b.vercel.app/)
+
 ---
 
 ## 🚀 What I'm Working On
-
 - Building full-stack projects with **Next.js** and **Node.js**
 - Learning **AI/ML application development** as my next step
 - Strengthening my JavaScript fundamentals through practice projects
@@ -30,16 +30,34 @@ I'm a passionate full-stack web developer focused on building clean, user-friend
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
+**Auth & Payments**
+
+![BetterAuth](https://img.shields.io/badge/BetterAuth-6D28D9?style=flat&logo=auth0&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+
 **Tools & Others**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logo=daisyui&logoColor=white)
+![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=flat&logo=heroicons&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
+
+### 📖 [Epilogue Lab](https://epiloguelab.vercel.app) — Digital Life Lessons Platform
+A full-stack platform where users preserve, share, and learn from real life experiences. Features role-based dashboards, premium content with Stripe payment, admin moderation, and real-time interactions.
+> Next.js 15 · Express.js · MongoDB · BetterAuth · Stripe · HeroUI v3 · Framer Motion
+
+---
+
+### 💼 [HireLoop](https://hireloop.vercel.app) — Job Hunting Portal
+A job portal platform with recruiter and seeker dashboards, company profiles, job posting, applications with subscription-based limits, and Stripe payment integration.
+> Next.js 15 · Express.js · MongoDB · BetterAuth · Stripe
+
+---
 
 ### 🚗 [Rentify](https://rentify-blond-chi.vercel.app) — Car Rental Platform
 A full-stack car rental platform with authentication, booking system, search & filter, and JWT-secured APIs.
@@ -54,4 +72,4 @@ A full-stack car rental platform with authentication, booking system, search & f
 
 ---
 
-*Currently based in Dhaka, Bangladesh 🇧🇩*
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=100&section=footer)
