@@ -55,7 +55,7 @@ A full-stack platform where users preserve, share, and learn from real life expe
 
 ### 🚗 [Rentify](https://rentify-blond-chi.vercel.app) — Car Rental Platform
 A full-stack car rental platform with authentication, booking system, search & filter, and JWT-secured APIs.
-> Next.js · Node.js · MongoDB · BetterAuth
+> Next.js · Node.js · Express.js · MongoDB · BetterAuth · JWT · Framer Motion
 
 ---
 
